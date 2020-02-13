@@ -9,3 +9,4 @@ Comandos Git, de acordo com o curso
 #git add --all - adiciona todos os arquivos do diretorio na lista de espera ou estaging area para fazer o commit.
 #git commit -m "mensagem do commit que está sendo feito".
 #git push origin master- envia as informações para o servidor
+#git pull origin master - solicita os arquivos, traz para o repostório local.
