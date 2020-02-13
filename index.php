@@ -1,5 +1,7 @@
 <?php
 
-    echo"<strong>Olá Mundo</strong>";
+    echo"<strong>Olá Mundo todo</strong>";
+
+    echo"Olá Anderson";
 
 ?>
