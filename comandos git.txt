@@ -1,0 +1,11 @@
+Comandos Git, de acordo com o curso
+
+#git remote add origin + url do repositório - cria um repositorio gitHub no seu projeto.
+#git config --global user.name "Anderson Nunes"
+#git config --global user.email "anderrrsonnn@gmail.com"
+#git clone + nome do repositório(gitHub ou gitBucket); - Clona todos os arquivos do repostório.
+#git init - faz a criação da pasta .git.
+#git add + o nome do arquivo - adiciona o arquivo na lista de espera ou staging area para fazer o commit.
+#git add --all - adiciona todos os arquivos do diretorio na lista de espera ou estaging area para fazer o commit.
+#git commit -m "mensagem do commit que está sendo feito".
+#git push origin master- envia as informações para o servidor
